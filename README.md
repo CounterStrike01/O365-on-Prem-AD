@@ -2,6 +2,8 @@
 Off Boarding Script for O365 users and Hybrid Synced Environment
 
 1) Understanding the scope of the script
+
+   
 Here’s a solid PowerShell-based offboarding script tailored for Office 365 users in a hybrid on-premises Active Directory (AD) environment. The script automates key offboarding tasks such as:
 
 Resets password to a random secure value
