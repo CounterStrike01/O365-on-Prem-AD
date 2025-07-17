@@ -37,12 +37,12 @@ Admin credentials with appropriate permissions
 📥 **Input**
 The script prompts for:
 
-User Principal Name (UPN) — e.g., jdoe@vanartgallery.bc.ca
+User Principal Name (UPN) — e.g., jdoe@someone.ca
 SAM Account Name — e.g., jdoe
 
 📤 **Output**
 A detailed log file saved in C:\Scripts\Offboarding\Logs
-Email notification sent to ITRequests@vanartgallery.bc.ca
+Email notification sent to ITRequests@someone.ca
 
 🚀 **Usage**
 
